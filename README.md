@@ -19,3 +19,4 @@ Freelance Full Stack Developer & App Designer
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="36" height="36" alt="SwiftUI" /></a>
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" width="36" height="36" alt="AdobeAE" /></a>
+<a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" width="36" height="36" alt="AdobePR" /></a>
