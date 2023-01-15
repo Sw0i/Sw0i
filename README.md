@@ -6,7 +6,7 @@ Freelance Full Stack Developer & App Designer
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [zencerdigital@icloud.com](mailto:zencerdigital@icloud.com)
-* 🚀  I'm currently working on [Fly To Smile Turkey](https://ortoperioantalya.com/tr/) , [CoinStamp](https://coinstamp.me/) and I'm a freelance ad SEO, designer and Swift App Developer 
+* 🚀  I'm currently working on [Fly To Smile Turkey](https://ortoperioantalya.com/tr/) , [CoinStamp](https://coinstamp.me/) and I'm a freelancer ad SEO, Website, Social Media Post Designer, and Swift App Developer 
 
 
 ### Skills
