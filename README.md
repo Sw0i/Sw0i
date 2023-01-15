@@ -21,4 +21,4 @@ Freelance Full Stack Developer & App Designer
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" width="36" height="36" alt="AdobeAE" /></a>
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Premiere.svg" width="36" height="36" alt="AdobePR" /></a>
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="36" height="36" alt="AdobePS" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender.svg" width="36" height="36" alt="Blender3D" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width="36" height="36" alt="Blender3D" /></a>
