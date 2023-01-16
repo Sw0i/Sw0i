@@ -23,7 +23,6 @@ Freelance Full Stack Developer & App Designer
 
 
 ### Skills
------------------------------------------
 
 * Coding
 
