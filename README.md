@@ -13,7 +13,10 @@ Freelance Full Stack Developer & App Designer
 
 * Op. Dr. Bilgehan Aydin | BE Aesthetic
 * Aycan Yanaç | Ay-lab, Kozmetik-Lab Products
+* Emsal Dogan International Beauty | Magazine Design for Hotels
 * Gurtas Logistics | Brand Videos
+* Tur-Lok | Social Media Post Design
+* Coinstamp.me | Website Admin & Designer
 
 
 
