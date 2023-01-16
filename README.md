@@ -9,6 +9,14 @@ Freelance Full Stack Developer & App Designer
 * 🚀  I'm currently working on [Fly To Smile Turkey](https://ortoperioantalya.com/tr/) , [CoinStamp](https://coinstamp.me/) and I'm a freelancer ad SEO, Website Design, Social Media Post Design and Swift App Developer 
 
 
+### Work History
+
+Op. Dr. Bilgehan Aydin | BE Aesthetic
+Aycan Yanaç | Ay-lab, Kozmetik-Lab Products
+Gurtas Logistics | Brand Videos
+
+
+
 ### Skills
 
 
@@ -25,3 +33,5 @@ Freelance Full Stack Developer & App Designer
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="36" height="36" alt="AdobeAI" /></a>
 <a href="https://www.adobe.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" width="36" height="36" alt="AdobePS" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width="36" height="36" alt="Blender3D" /></a>
+
+  
