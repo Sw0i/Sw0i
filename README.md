@@ -11,9 +11,9 @@ Freelance Full Stack Developer & App Designer
 
 ### Work History
 
-Op. Dr. Bilgehan Aydin | BE Aesthetic
-Aycan Yanaç | Ay-lab, Kozmetik-Lab Products
-Gurtas Logistics | Brand Videos
+* Op. Dr. Bilgehan Aydin | BE Aesthetic
+* Aycan Yanaç | Ay-lab, Kozmetik-Lab Products
+* Gurtas Logistics | Brand Videos
 
 
 
