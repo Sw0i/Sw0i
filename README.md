@@ -18,6 +18,7 @@ Freelance Full Stack Developer & App Designer
 * Gurtas Logistics | Brand Videos
 * Tur-Lok | Social Media Post Design
 * Coinstamp.me | Website Admin & Designer
+* Furkan Yöntem | Matchday Designs
 
 
 
