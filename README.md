@@ -1,17 +1,18 @@
 Hi 👋 My name is Samed Zencer
 ==================================
 
-Freelance Full Stack Developer & App Designer
+Freelance Social Media Marketing Specialist @ App Developer
 -----------------------------------------
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [zencerdigital@icloud.com](mailto:zencerdigital@icloud.com)
 * <a href="https://www.instagram.com/zencerdigital" target="_blank" rel="noreferrer"><img src="https://github.com/wle8300/instagram-logo/blob/master/logo.svg" width="20" height="20" alt="Java" /></a> Instagram: [zencerdigital](https://www.instagram.com/zencerdigital)
-* 🚀  I'm currently working on [FlyToSmile Turkey](https://ortoperioantalya.com/tr/) , [CoinStamp](https://coinstamp.me/) and I'm a freelancer ad SEO, Website Design, Social Media Post Design and Swift App Developer 
+* 🚀  I'm currently working on [FlyToSmile Turkey](https://ortoperioantalya.com/tr/) , [BilisimSchool](https://bilisimschool.com/) and I'm Social Media Marketing Specialist & App Developer as freelance
 
 
 ### Work History
 
+* BilisimSchool
 * Op. Dr. Bilgehan Aydin | BE Aesthetic
 * Aycan Yanaç | Ay-lab, Kozmetik-Lab Products
 * Emsal Dogan International Beauty | Magazine Design for Hotels
