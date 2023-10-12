@@ -1,7 +1,7 @@
 Hi 👋 My name is Samed Zencer
 ==================================
 
-Freelance Social Media Marketing Specialist @ App Developer
+Freelance Social Media Marketing Specialist & App Developer
 -----------------------------------------
 
 * 🌍  I'm based in Turkey
